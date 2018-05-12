@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6048'
     url: http://www.gutenberg.org/2009/agents/6048
 description: 'An earlier edition has title: The renegade.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15424#Ella-BarnwellA-Historical-Romance-of-Border-Life
 gutenberg_issued: '2005-03-21'
 gutenberg_type: Text
 identifiers:
