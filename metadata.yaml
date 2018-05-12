@@ -1,0 +1,30 @@
+_repo: Ella-BarnwellA-Historical-Romance-of-Border-Life_15424
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bennett, Emerson
+    birthdate: 1822
+    deathdate: 1905
+    gutenberg_agent_id: '6048'
+    url: http://www.gutenberg.org/2009/agents/6048
+description: 'An earlier edition has title: The renegade.'
+gutenberg_issued: '2005-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15424'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Frontier and pioneer life -- Fiction'
+- !lcsh 'Kentucky -- Fiction'
+- !lcsh 'Girty, Simon, 1741-1818 -- Fiction'
+title: 'Ella Barnwell
+
+  A Historical Romance of Border Life'
+url: http://www.gutenberg.org/ebooks/15424
